@@ -19,4 +19,4 @@ if __name__ == "__main__":
 			y_val, z_val = sess.run([y, z])
 			print(y_val)
 			print(z_val)
-			
+	
