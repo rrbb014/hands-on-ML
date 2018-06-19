@@ -1,4 +1,4 @@
-# Linear Regression with Tensorflow p.303 - 
+# Linear Regression with Tensorflow p.303 - 304
 # Analytically compute
 
 import numpy as np
